@@ -1,2 +1,2 @@
 # Language-Translator
-This online tool is used to translate the words and sentence in various language
+Language translator to translate from one language to other language
